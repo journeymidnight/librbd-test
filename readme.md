@@ -11,5 +11,5 @@ make
 How to run:
 
 ```bash
-./rbd_example -c CEPH_CONFIG_FILE
+./rbd_example -c ceph_config_example.conf
 ```
